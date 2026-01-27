@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore and create new things in the world of technology.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ohanael&color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=Ohanael&color=blue)
 
 ## About Me
 
